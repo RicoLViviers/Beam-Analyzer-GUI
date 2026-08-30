@@ -1,0 +1,3 @@
+[submodule "beam_analyzer"]
+	path = beam_analysis
+	url = https://github.com/RicoLViviers/BeamAnalyzer.git
